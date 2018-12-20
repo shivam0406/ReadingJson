@@ -1,0 +1,81 @@
+ {
+    "query": {
+        "limit": 10,
+        "offset": 0,
+        "count": 9
+    },
+    "result": [
+        {
+            "_id": "5c00465eccde9c03efc5b4f7",
+            "name": "CREATE_ROLE",
+            "displayText": "Create Role",
+            "description": "Create role permission",
+            "createdAt": "2018-11-29T20:04:46.162Z",
+            "updatedAt": "2018-11-29T20:04:46.162Z"
+        },
+        {
+            "_id": "5c00465eccde9c03efc5b4f8",
+            "name": "UPDATE_ROLE",
+            "displayText": "Update Role",
+            "description": "Update role permission",
+            "createdAt": "2018-11-29T20:04:46.163Z",
+            "updatedAt": "2018-11-29T20:04:46.163Z"
+        },
+        {
+            "_id": "5c00465eccde9c03efc5b4f9",
+            "name": "DELETE_ROLE",
+            "displayText": "Delete Role",
+            "description": "Delete role permission",
+            "createdAt": "2018-11-29T20:04:46.163Z",
+            "updatedAt": "2018-11-29T20:04:46.163Z"
+        },
+        {
+            "_id": "5c00465eccde9c03efc5b4fc",
+            "name": "UPDATE_PERMISSION",
+            "displayText": "Update Permission",
+            "description": "Update Permission permission",
+            "createdAt": "2018-11-29T20:04:46.163Z",
+            "updatedAt": "2018-11-29T20:04:46.163Z"
+        },
+        {
+            "_id": "5c00465eccde9c03efc5b4fb",
+            "name": "CREATE_PERMISSION",
+            "displayText": "Create Permission",
+            "description": "Create Permission permission",
+            "createdAt": "2018-11-29T20:04:46.163Z",
+            "updatedAt": "2018-11-29T20:04:46.163Z"
+        },
+        {
+            "_id": "5c00465eccde9c03efc5b4fa",
+            "name": "VIEW_ROLE",
+            "displayText": "View Role",
+            "description": "View role permission",
+            "createdAt": "2018-11-29T20:04:46.163Z",
+            "updatedAt": "2018-11-29T20:04:46.163Z"
+        },
+        {
+            "_id": "5c00465eccde9c03efc5b4fd",
+            "name": "DELETE_PERMISSION",
+            "displayText": "Delete Permission",
+            "description": "Delete Permission permission",
+            "createdAt": "2018-11-29T20:04:46.163Z",
+            "updatedAt": "2018-11-29T20:04:46.163Z"
+        },
+        {
+            "_id": "5c00465eccde9c03efc5b4fe",
+            "name": "VIEW_PERMISSION",
+            "displayText": "View Permission",
+            "description": "View Permission permission",
+            "createdAt": "2018-11-29T20:04:46.163Z",
+            "updatedAt": "2018-11-29T20:04:46.163Z"
+        },
+        {
+            "_id": "5c004660ccde9c03efc5b506",
+            "name": "COMPRESS",
+            "displayText": "compress",
+            "description": "Try to back up the TCP card, maybe it will bypass the open-source feed!",
+            "createdAt": "2018-11-29T20:04:48.736Z",
+            "updatedAt": "2018-11-29T20:04:48.736Z"
+        }
+    ]
+    }
